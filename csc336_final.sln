@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csc336_final", "csc336_final\csc336_final.csproj", "{C72C2D21-69AC-4602-8591-4A4BFC42CB1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csc336_final", "csc336_final\csc336_final.csproj", "{C72C2D21-69AC-4602-8591-4A4BFC42CB1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{0EAD3E0B-6892-44FF-9DB4-CB31317E295A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{0EAD3E0B-6892-44FF-9DB4-CB31317E295A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{AC2065CF-5AB7-4AE2-B426-AF05C73D7637}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "BLL\BLL.csproj", "{AC2065CF-5AB7-4AE2-B426-AF05C73D7637}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

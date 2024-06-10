@@ -25,7 +25,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
+    <Folder Include="Services\Revservations\" />
+    <Folder Include="Services\Pilots\" />
   </ItemGroup>
 
 </Project>
